@@ -30,9 +30,7 @@ module.exports = {
       email: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      github: '#'
     }
   }
 };
