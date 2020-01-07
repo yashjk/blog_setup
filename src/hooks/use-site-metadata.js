@@ -16,8 +16,6 @@ const useSiteMetadata = () => {
                 telegram
                 twitter
                 github
-                rss
-                vkontakte
               }
             }
             menu {
