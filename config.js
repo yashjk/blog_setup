@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by Spider',
+  title: "Spider's Web",
   subtitle: 'Web developer in making.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -27,10 +27,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Web developer in making',
     contacts: {
-      email: '#',
+      email: 'injose.joshi@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#'
+      twitter: '@joshiyash1206',
+      github: 'www.github.com/Yash1206'
     }
   }
 };
